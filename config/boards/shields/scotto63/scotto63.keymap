@@ -5,7 +5,7 @@
 #define WINDOWS 0
 //#define WINDOWS_CODE 1
 //#define WINDOWS_NUMBER 2
-#define WINDOWS_FUNCTION 3
+#define WINDOWS_FUNCTION 1
 
     // Behavior Overrides
     &lt {
@@ -98,7 +98,7 @@
                 &kp TAB          &kp Q         &kp W        &kp E    &kp R    &kp T     &kp Y     &kp U      &kp I              &kp O                    &kp P                &kp LEFT_BRACKET     &kp RIGHT_BRACKET &kp BACKSLASH
                 &kp CAPS         &kp A         &kp S        &kp D    &kp F    &kp G     &kp H     &kp J      &kp K              &kp L                    &kp SEMICOLON        &kp APOSTROPHE                         &kp ENTER            
                 &kp LSHIFT       &kp Z         &kp X        &kp C    &kp V    &kp B     &kp N     &kp M      &kp COMMA          &kp PERIOD               &kp SLASH                                 &kp RSHIFT  
-                &kp LEFT_CONTROL &kp LEFT_GUI  &kp LEFT_ALT                             &kp SPACE                                                        &kp RIGHT_ALT        &mo WINDOWS_FUNCTION &kp LEFT_ARROW    &kp RIGHT_ARROW
+                &kp LEFT_CONTROL &kp LEFT_GUI  &kp LEFT_ALT                             &kp SPACE                                                        &kp RIGHT_ALT        &mo 1                &kp LEFT_ARROW    &kp C_VOLUME_UP
                                    
             >;
         };
